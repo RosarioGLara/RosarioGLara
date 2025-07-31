@@ -1,41 +1,46 @@
-##🌟 Hi there! I'm Rosario
-I'm an incoming sophomore studying Computer Science, deeply curious about how machine learning and AI can drive real-world change. I thrive on blending theory and practice—especially when it helps communities build accessible, sustainable tech.
+<!-- GitHub Profile README -->
 
-💡 What I’m Working On
-🎯 Tuning sentiment analysis models for nuanced book reviews
+<h1 align="center">Hi there 👋, I'm Rosario</h1>
+<p align="center">
+  💻 CS Sophomore | 🤖 Machine Learning Explorer | 🌎 Tech for Social Good
+</p>
 
-🔧 Building geometric slicing workflows for efficient 3D printing
+---
 
-🤝 Designing mobile apps that foster engagement in student communities
+### 🚀 About Me
 
-🧠 Skills I Bring
-Machine Learning: NLP, neural nets, model evaluation, interpretability
+I'm a Computer Science student passionate about building accessible tools and real-world solutions—especially where tech meets community empowerment. I believe machine learning should be transparent, intuitive, and available to everyone, no matter their background.
 
-Development: Python, Flutter, React Native
+---
 
-Problem-Solving: Visual reasoning, algorithm design, feature engineering
+### 🔭 What I'm Working On
+- Sentiment analysis for multilingual book reviews (85% validation accuracy 🎯)
+- Custom 3D slicing algorithms for ceramic printing (90% extrusion loss reduction 🌀)
+- Flutter/React Native apps for student engagement 🌿
 
-Collaboration: Bilingual peer mentorship (English/Spanish), event leadership
+---
 
-🌍 My Goals
-Democratize ML/AI education for underrepresented groups
+### 🧰 Tech Toolbox
+| Languages | Frameworks | ML/AI | Other |
+|----------|------------|-------|-------|
+| Python 🐍 | Flutter 🚀 | NLP, Neural Nets 🧠 | Git, Markdown 📄 |
+| JavaScript ⚡ | React Native 📱 | Interpretability & Tuning 📊 | Shapely, Jupyter 🧪 |
 
-Create intuitive, free tools that make tech more approachable
+---
 
-Build projects that improve everyday life—one thoughtful line of code at a time
+### 🌱 Goals
+- Create free ML resources for underrepresented communities
+- Explore gamified productivity apps (like ScrollGarden 🍃)
+- Make machine learning more explainable and fun
 
-📫 Let's Connect!
-Portfolio: [optional link]
+---
 
-LinkedIn: [optional link]
+### 🤝 Let’s Connect!
+- 🌐 Portfolio: *[Coming Soon]*  
+- 💼 LinkedIn: *[Add link if ready]*  
+- 🖊️ Resume & Projects: *[Add link if hosted]*  
+- 📬 Favorite emoji: 🌸 (changes often!)
 
-Favorite emoji right now: ✨
+---
 
-<!--
-**RosarioGLara/RosarioGLara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🎓 B.S. in Computer Science at The University of Texas at El Paso
-💻 Interests: Machine Learning, Software Development, Mobile App Development
-🌱 Currently Learning: Python for Machine Learning and React
-📱 Reach me: rglara2@miners.utep.edu
--->
