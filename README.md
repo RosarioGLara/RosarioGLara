@@ -36,10 +36,9 @@ I'm a Computer Science student passionate about building accessible tools and re
 ---
 
 ### 🤝 Let’s Connect!
-- 🌐 Portfolio: *[Coming Soon]*  
-- 💼 LinkedIn: *[Add link if ready]*  
-- 🖊️ Resume & Projects: *[Add link if hosted]*  
-- 📬 Favorite emoji: 🌸 (changes often!)
+ 
+- 💼 LinkedIn: *[[(https://www.linkedin.com/in/rosario-g-lara/)]*    
+- 📬 Favorite emoji: 🌸 
 
 ---
 
