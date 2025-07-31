@@ -24,7 +24,7 @@ I'm a Computer Science student passionate about building accessible tools and re
 | Languages | Frameworks | ML/AI | Other |
 |----------|------------|-------|-------|
 | Python 🐍 | Flutter 🚀 | NLP, Neural Nets 🧠 | Git, Markdown 📄 |
-| JavaScript ⚡ | React Native 📱 | Interpretability & Tuning 📊 | Shapely, Jupyter 🧪 |
+| Java ⚡ | React Native 📱 | Interpretability & Tuning 📊 | Shapely, Jupyter 🧪 |
 
 ---
 
