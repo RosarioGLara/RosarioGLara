@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I'm a Computer Science student passionate about building accessible tools and real-world solutions—especially where tech meets community empowerment. I believe machine learning should be transparent, intuitive, and available to everyone, no matter their background.
+I'm a Computer Science student passionate about building accessible tools and real-world solutions especially where tech meets community empowerment. I believe machine learning should be transparent, intuitive, and available to everyone, no matter their background.
 
 ---
 
