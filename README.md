@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Rosario</h1>
 <p align="center">
-  💻 CS Freshman | 🤖 Machine Learning Explorer | 🌎 Tech for Social Good
+  💻 CS Sophomore | 🤖 Machine Learning Explorer | 🌎 Tech for Social Good
 </p>
 
 ---
